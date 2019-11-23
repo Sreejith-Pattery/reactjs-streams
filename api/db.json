@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "My stream",
+      "description": "this is a good stream",
+      "id": 1
+    },
+    {
+      "title": "stream 2",
+      "description": "this is another good stream",
+      "id": 2
+    },
+    {
+      "title": "Stream created by Me",
+      "description": "I created this stream",
+      "userId": "110490361873278483869",
+      "id": 3
+    },
+    {
+      "title": "Comp reuse",
+      "description": "I am reusing a component form here edit",
+      "id": 5
+    }
+  ]
+}
